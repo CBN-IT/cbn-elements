@@ -1,0 +1,32 @@
+{
+  "name": "cbn-elements",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "utility",
+    "user-input",
+    "selection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "cbn-copy-clipboard": "CBN-IT/cbn-copy-clipboard#^1.0.0"
+  },
+  "homepage": "",
+  "authors": [
+
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "iron-elements.html"
+}
