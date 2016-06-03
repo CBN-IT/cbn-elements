@@ -14,7 +14,7 @@
     "url": ""
   },
   "dependencies": {
-    "cbn-copy-clipboard": "CBN-IT/cbn-copy-clipboard#^1.0.0"
+    "cbn-copy-clipboard": "CBN-IT/cbn-copy-clipboard#master"
   },
   "homepage": "",
   "authors": [
