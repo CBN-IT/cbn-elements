@@ -14,11 +14,15 @@
     "url": ""
   },
   "dependencies": {
-    "cbn-copy-clipboard": "CBN-IT/cbn-copy-clipboard#master"
+    "cbn-copy-clipboard": "CBN-IT/cbn-copy-clipboard#master",
+    "cbn-save-excel": "CBN-IT/cbn-save-excel#master",
+    "cbn-table":"CBN-IT/cbn-table#master",
+    "cbn-icons": "CBN-IT/cbn-icons#master",
+    "cbn-polymer-extensions": "CBN-IT/cbn-polymer-extensions#master",
+    "cbn-tooltip":"CBN-IT/cbn-tooltip#master"
   },
   "homepage": "",
   "authors": [
-
   ],
   "license": "",
   "ignore": [
