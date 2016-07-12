@@ -19,7 +19,9 @@
     "cbn-table":"CBN-IT/cbn-table#master",
     "cbn-icons": "CBN-IT/cbn-icons#master",
     "cbn-polymer-extensions": "CBN-IT/cbn-polymer-extensions#master",
-    "cbn-tooltip":"CBN-IT/cbn-tooltip#master"
+    "cbn-tooltip":"CBN-IT/cbn-tooltip#master",
+    "cbn-momentjs":"CBN-IT/cbn-momentjs#master",
+    "cbn-ace-editor": "CBN-IT/cbn-ace-editor#master"
   },
   "homepage": "",
   "authors": [
